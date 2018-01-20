@@ -1,4 +1,4 @@
-package com.yom.keycloak.kitecash;
+package com.yom.keycloak.rbi;
 
 import org.springframework.stereotype.Component;
 
@@ -12,6 +12,6 @@ import java.util.List;
 public class FeatureService {
 
     public List<String> getFeatures() {
-        return Arrays.asList("P2P","IMPS","CASH-IN","CASH-OUT");
+        return Arrays.asList("UPI","IMPS","NEFT","RTGS");
     }
 }

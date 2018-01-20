@@ -1,4 +1,4 @@
-package com.yom.keycloak.kitecash;
+package com.yom.keycloak.rbi;
 
 /**
  * Created by yogendra on 21/8/17.

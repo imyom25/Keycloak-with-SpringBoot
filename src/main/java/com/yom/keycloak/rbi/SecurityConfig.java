@@ -1,4 +1,4 @@
-package com.yom.keycloak.kitecash;
+package com.yom.keycloak.rbi;
 
 import org.keycloak.adapters.KeycloakConfigResolver;
 import org.keycloak.adapters.springboot.KeycloakSpringBootConfigResolver;

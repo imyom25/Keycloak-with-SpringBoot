@@ -1,4 +1,4 @@
-package com.yom.keycloak.kitecash;
+package com.yom.keycloak.rbi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class KiteCashApplicationTests {
+public class RbiServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
